@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "BRC & Company Costco Extention",
+    "name": "BRC & Company Costco Extension",
     "version": "0.1",
 
     "content_scripts": [
