@@ -2,7 +2,7 @@
 This is to be used for easy traversal through CostCo's product images without having to manually modify the URL.
 
 ## How to use ##
-1. Install the extention
+1. Install the extention (Currently published as "BRC & Company CostCo Extension")
 2. Go to https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12026540&id=1092023&recipeId=728 (or a similar page)
 3. Ensure buttons properly navigate to new images
 
