@@ -49,10 +49,6 @@ else { // if the image is not present then append the buttons to the buttom of t
     
 }
 
-
-
-
-
 /**
  * UpdateQueryString
  * 
