@@ -5,7 +5,10 @@
 
     "content_scripts": [
         {
-            "matches": ["*://*.richmedia.channeladvisor.com/*"],
+            "matches": [
+                "*://richmedia.channeladvisor.com/*",
+                "*://richmedia.ca-richimage.com/*"
+            ],
             "css": ["src/css/default.css"],
             "js": ["src/js/jquery-3.2.1.min.js", "src/js/content.js"]
         }
